@@ -1,0 +1,1 @@
+const func:()=>void =()=>console.log("dbfrghegd")
